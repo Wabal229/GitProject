@@ -1,7 +1,31 @@
-body {
-background-color: rebeccapurple;
-padding: 23;
-font-size: large;
-font-style: oblique;
-color: #000;
+body{
+    font-family:Helvetica;
+    
+}
+h1{
+    text-align:center;
+    color:yellow;
+}
+h2{
+    color:green;
+    font-weight:bold;
+}
+table{
+       border:4px solid black;
+       background-color: maroon;
+       left:600%;
+
+}
+thead{
+    border:3px black solid; 
+    text-align:center;
+    font-weight:bold;
+    background-color:teal;
+}
+tr{
+    border:2px solid black;
+}
+.tagcode{
+text-align:center;
+background-color:aqua;
 }
